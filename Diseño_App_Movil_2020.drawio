@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T19:44:16.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="vedXLoEyzb6HnKCouVeW" version="13.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-18T19:58:33.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="sWuuqi7kgi_yRVKstS7g" version="13.2.6" type="github">
   <diagram id="kvq_iJzbC6Ift1ooBYrA" name="Prototipo_App_Movil">
-    <mxGraphModel dx="722" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -550,8 +550,26 @@
         <mxCell id="eJ25O3bxqKITnhWrc3Jj-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.indeterminateSpinner;" vertex="1" parent="1">
           <mxGeometry x="815" y="220" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eJ25O3bxqKITnhWrc3Jj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="eJ25O3bxqKITnhWrc3Jj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="1069" y="615.82" width="141" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ25O3bxqKITnhWrc3Jj-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1109.5" y="640" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ25O3bxqKITnhWrc3Jj-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="745" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ25O3bxqKITnhWrc3Jj-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1076.5" y="843" width="123.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ25O3bxqKITnhWrc3Jj-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="780" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ25O3bxqKITnhWrc3Jj-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="812" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ25O3bxqKITnhWrc3Jj-14" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;Vladimir Sanchez&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="705" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
